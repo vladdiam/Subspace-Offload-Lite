@@ -1,0 +1,1 @@
+this is cool & simple LITE plugin for receiving /uploads folder from another site
